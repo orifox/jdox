@@ -1,0 +1,10 @@
+wavelength	flux
+5	10
+6	15
+7	20
+8	25
+
+target	position	integration time
+a	100	15
+b	200	30
+c	300	40

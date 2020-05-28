@@ -1,0 +1,4 @@
+pointing	10
+wavelength	20
+dither		4
+step		15
